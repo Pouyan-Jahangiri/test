@@ -1,2 +1,2 @@
 # Test
-This is a test on Git!
+This is practice a test on Git!
